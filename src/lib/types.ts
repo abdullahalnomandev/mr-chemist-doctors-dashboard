@@ -1,0 +1,1 @@
+export type EnsuredType<T> = NonNullable<NonNullable<T>>;
